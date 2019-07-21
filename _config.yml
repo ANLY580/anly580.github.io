@@ -1,19 +1,19 @@
 # configuration
 # fill in the course details
- 
-courseName: Course name
+
+courseName: NLP for Data Analytics
 
 # small title that is at the top of every page
-subtitle: GHS101 course syllabus — spring semester 2022
+subtitle: ANYL580 course syllabus — Fall 2019
 
 # baseurl is the same as the name of the repository
 baseurl: /gh-syllabus
 
 # url where the required reading is available to download
-docsUrl: "" 
+docsUrl: "https://georgetown.instructure.com"
 
 # url where the student's grading info is kept
-gradingUrl: "" 
+gradingUrl: "https://georgetown.instructure.com"
 
 
 # change only if you know what you are doing

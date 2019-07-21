@@ -1,21 +1,23 @@
 ---
 week: 1
-day: September 1
-title: First session
-tags: [hello]
+day: September 3
+title: Overview
+tags: [language]
 ---
-### Surname, Name: _Book title_
 
-City: Publisher, 2017\. ISBN 123-45-678-9012-3.  
-**Required excerpt: p. 55–90 (35 pages). [PDF]({{ site.docsUrl }}article.pdf)**
+## Readings
 
-### Surname, Name: _Article title_  
+Grefenstette, G., & Tapanainen, P. (1994). [What is a word, what is a sentence?: problems of Tokenisation](https://pdfs.semanticscholar.org/e727/c7fd2bf3460a36934eae64c8c5716bc28980.pdf).
 
-In: Publication, Date. [Available online.](http://publication.com/article_url)  
-**Entire article required (~5 pages). [PDF]({{ site.docsUrl }}cached-to-be-sure.pdf)**
+Smith, N. A. (2019). [Contextual Word Representations: A Contextual Introduction](https://arxiv.org/pdf/1902.06006.pdf). arXiv preprint arXiv:1902.06006.
 
-## Recommended reading
+## Other resources
 
-### Surname, Name: _Article title_  
 
-In: Publication, Date. [Available online.](http://publication.com/article_url)  
+## Research sites
+
+
+## Blogs
+
+
+## Conferences

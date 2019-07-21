@@ -6,14 +6,18 @@ layout: default
 <p><b>{{ page.day }} / Week {{ page.week }}</b></p>
 
 <h1>
-	{{ page.title }}
-	{% for tag in page.tags %}
-		<b>#{{ tag }}</b>
-	{% endfor %}
+	{{ page.title }} <br>
 </h1>
+	{% for tag in page.tags %}
+        <p>
+		#{{ tag }}
+        </p>
+	{% endfor %}
 
+
+<!--
 <img src="{{ site.baseurl }}/style/unit.jpg" width="100%">
-
+-->
 {{content}}
 
 
@@ -44,5 +48,5 @@ if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
 <div class="unitPagination">
 	{% if prevurl %}<a href="{{ site.baseurl }}{{prevurl}}" class="prev">⇦ previous week</a>{% endif %}
 	{% if nexturl %}<a href="{{ site.baseurl }}{{nexturl}}" class="next">next week ⇨</a>{% endif %}
-	<a href="{{ site.baseurl }}/reading.html" class="index">unit index</a>
+	<a href="{{ site.baseurl }}/notes.html" class="index">unit index</a>
 </div>
