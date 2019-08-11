@@ -7,7 +7,7 @@ courseName: NLP for Data Analytics
 subtitle: ANYL580 course syllabus — Fall 2019
 
 # baseurl is the same as the name of the repository
-baseurl: /gh-syllabus
+baseurl: /
 
 # url where the required reading is available to download
 docsUrl: "https://georgetown.instructure.com"
