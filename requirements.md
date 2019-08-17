@@ -15,5 +15,6 @@ The emphasis for grading is on practical exercises and communicating results. Th
 | --- | --- | --- |
 | Quizzes |	20%	| 11 quizzes, lowest score dropped |
 | Project #1 | 20% | Computational analysis |
+| Project #2 Proposal | 10% | Group proposal |
 | Mid-Term	| 20% | Exam |
-| Project #2 | 40% | Computational analysis to Include in-class poster presentation |
+| Project #2 | 30% | Computational analysis to include in-class poster presentation |
