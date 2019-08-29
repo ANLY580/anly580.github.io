@@ -1,7 +1,7 @@
 ---
 title: "ANYL 580 - NLP for Data Analytics"
 layout: home
-menuItem: "Basic info"
+menuItem: "Syllabus"
 menuPosition: 1
 ---
 <h1>{{ site.courseName }}</h1>
