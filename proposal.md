@@ -1,6 +1,6 @@
 ---
 title: "Project 2 Proposal"
-layout:
+layout: page
 ---
 This second project is open-ended with some constraints. It should involve NLP in support of an empirical research question that is either a small, focused contribution or negative result (meaning, your hypothesis may not bear out). Groups are again 1-4 and each group should submit their proposal in Canvas for approval.
 

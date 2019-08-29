@@ -1,6 +1,6 @@
 ---
 title: "Project 2: Computational Analysis"
-layout:
+layout: page
 ---
 
 This second project is is open-ended with some constraints. It should involve NLP in support of an empirical research question that is either a small, focused contribution or negative result (meaning, your hypothesis may not bear out). Please review the [proposal guidelines here](proposal.html).

@@ -1,4 +1,7 @@
-# Project 1: Sentiment Analysis
+---
+title: "Project 1: Sentiment Analysis"
+layout: page
+---
 
 For this project, you will focus on the task of sentiment analysis of English Twitter data.
 
