@@ -7,8 +7,9 @@ tags: [language]
 
 ## Access the Lecture
 
-# [1-Overview (view only)](https://github.com/anyl580/lectures/blob/master/1-overview/1-overview.md)
-# [1-Overview (interactive)](https://mybinder.org/v2/gh/anyl580/lectures/master?urlpath=notebooks/1-overview/1-overview.ipynb)
+[1-Overview (view only)](https://github.com/anyl580/lectures/blob/master/1-overview/1-overview.md)
+
+[1-Overview (interactive)](https://mybinder.org/v2/gh/anyl580/lectures/master?urlpath=notebooks/1-overview/1-overview.ipynb)
 
 ## Readings
 
