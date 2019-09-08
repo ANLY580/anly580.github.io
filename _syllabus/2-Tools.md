@@ -60,7 +60,7 @@ For the first couple of weeks, we're trying to move relatively slowly by focusin
          - The token/type ratio in the dataset
          - Make a plot of the Brown Corpus. [Heaps' law - Wikipedia](https://en.wikipedia.org/wiki/Heaps'_law)). We'll be talking more about Zipf's law next week.
 
-### Tools
+### Development Tools
 
 * **[GitHub](https://github.com)** - GitHub also has excellent tutorials: [GitHub Guides](https://guides.github.com), [video tutorials](https://www.youtube.com/playlist?list=PL0lo9MOBetEHhfG9vJzVCTiDYcbhAiEqL), [hands-on learning lab](https://lab.github.com).
 * **[Markdown](https://markdown-it.github.io)** - A great editor is [GitHub's Atom](https://atom.io). I use this for editing lecture materials.
@@ -70,12 +70,15 @@ For the first couple of weeks, we're trying to move relatively slowly by focusin
 * **[PyCharm](https://www.jetbrains.com/pycharm/)** - free education license and a seriously great environment many use in the workplace.
 * **[KITE](https://kite.com)** - Slick code-completion tool that runs alongside several different Python IDEs.
 * **[RStudio](https://www.rstudio.com/products/rstudio/)** - One can only hope that Jupyter will catch up some day. This is just a great data environment, period.
-* **[Elastic (ELK) Stack](https://www.elastic.co/products/elastic-stack)** - Many data scientists use Elastic to quickly index data for further exploration and for quick-and-dirty dashboards.
 * **[Docker](https://www.docker.com/products/docker-hub)** - use this platform-as-a-service to create a re-usable environment that you can spin up in minutes.
 * **[Google Colaboratory](https://colab.research.google.com)** - free Jupyter notebooks with free GPU use and linked to your Google Drive, **[GCP](https://cloud.google.com)** - Google gives you a $300 credit when you sign up for its Google Cloud Platform, **[Azure](https://azure.microsoft.com/)** - Microsoft will give you a $200 credit for Azure, **[AWS](https://aws.amazon.com)** - Amazon will give you access to a free (lightweight) tier of virtual machines for a year. I have accounts on all three and wouldn't go so far to say that one was much easier than another.
 * **[Digital Ocean](https://www.digitalocean.com)** (great alternative to cloud but no GPUs) - At $5 per month for a virtual machine you never have to turn off, this is an environment that is hard to beat. I use Docker on Digital Ocean for every day use.
 * Other easy **[options for Jupyter notebooks with GPUs](https://course.fast.ai)** - fastai points to some 1-click installations of Jupyter that are super easy to setup and use. If you really don't want to bother with cloud yet, there are some great options here.
+
+## Text and Content Extraction tools
 * **[Scrapy](https://scrapy.org)** - Scrapy is a super easy to learn and use webscraping library. I haven't tried Scrapy cloud yet but it looks intriguing. Check out []"Scraping Amazon Reviews using Scrapy in Python."](https://blog.datahut.co/scraping-amazon-reviews-python-scrapy/) We didn't have time to do this as an exercise, but you could scrape your own data for project #2.
+* **[Elastic (ELK) Stack](https://www.elastic.co/products/elastic-stack)** - Many data scientists use Elastic to quickly index data for further exploration and for quick-and-dirty dashboards.
+*  ** **
 
 ## Language Tools
 
