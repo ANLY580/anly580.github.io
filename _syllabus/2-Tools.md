@@ -52,12 +52,13 @@ For the first couple of weeks, we're trying to move relatively slowly by focusin
 4. Use [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) to practice regular expressions by **removing tags** from [ca11.txt](https://github.com/anyl580/lectures/tree/master/2-tools/ca11.txt) (one of the texts from the Brown Corpus). The Brown corpus manual [Brown Corpus Manual](http://clu.uni.no/icame/manuals/BROWN/INDEX.HTM#bc6) should be of help.
 5. Consider the statistics below required for [Project #1](https://anyl580.github.io/project1.html). Try to do these for either [ca11.txt](https://github.com/anyl580/lectures/tree/master/2-tools/ca11.txt) or the Brown Corpus within NLTK. If you are using NLTK, you can use the [course lecture for this](https://github.com/anyl580/lectures/tree/master/2-tools).
      - Statistics you should gather:
-        - The total number of tokens
-    	- The total number of characters
-    	- The total number of distinct words (vocabulary)
-    	- The total number of tokens corresponding to the top 10 most frequent words in the vocabulary
-        - The total number of tokens corresponding to the bottom 10 most infrequent words in the vocabulary
-    	- The token/type ratio in the dataset - Make a plot of the Brown Corpus. [Heaps' law - Wikipedia](https://en.wikipedia.org/wiki/Heaps'_law)). We'll be talking more about Zipf's law next week.
+         - The total number of tokens
+         - The total number of characters
+         - The total number of distinct words (vocabulary)
+         - The total number of tokens corresponding to the top 10 most frequent words in the vocabulary
+         - The total number of tokens corresponding to the bottom 10 most infrequent words in the vocabulary
+         - The token/type ratio in the dataset
+         - Make a plot of the Brown Corpus. [Heaps' law - Wikipedia](https://en.wikipedia.org/wiki/Heaps'_law)). We'll be talking more about Zipf's law next week.
 
 ### Tools
 
