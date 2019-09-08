@@ -23,8 +23,8 @@ For the first couple of weeks, we're trying to move relatively slowly by focusin
 
 ## Other References
 
-- Natural Language Tool Kit (NLTK) [Chapter 2 and the Brown Corpus (1.3)](https://www.nltk.org/book/ch02.html)
-- Natural Language Tool Kit (NLTK) [Chapter 3 and the Brown Corpus (1.3)](https://www.nltk.org/book/ch03.html)
+- Natural Language Tool Kit (NLTK) [Chapter 2 and the Brown Corpus](https://www.nltk.org/book/ch02.html)
+- Natural Language Tool Kit (NLTK) [Chapter 3 and the Brown Corpus](https://www.nltk.org/book/ch03.html)
 - [ANYL580 Linux tutorials](https://georgetown.instructure.com/files/2884569/download?download_frd=1)
 - [ANYL580 Regular Expressions Tutorial](https://georgetown.instructure.com/files/2884565/download?download_frd=1)
 - [The First Notebook War](https://yihui.name/en/2018/09/notebook-war/) - Great article by Yihui Xie, 2018-09-10
