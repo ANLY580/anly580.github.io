@@ -24,17 +24,11 @@ For the first couple of weeks, we're trying to move relatively slowly by focusin
 ## Other References
 
 - Natural Language Tool Kit (NLTK) [Chapter 2 and the Brown Corpus (1.3)](https://www.nltk.org/book/ch02.html)
-
 - Natural Language Tool Kit (NLTK) [Chapter 3 and the Brown Corpus (1.3)](https://www.nltk.org/book/ch03.html)
-
 - [ANYL580 Linux tutorials](https://georgetown.instructure.com/files/2884569/download?download_frd=1)
-
 - [ANYL580 Regular Expressions Tutorial](https://georgetown.instructure.com/files/2884565/download?download_frd=1)
-
 - [The First Notebook War](https://yihui.name/en/2018/09/notebook-war/) - Great article by Yihui Xie, 2018-09-10
-
 - ["State-of-the-art" Multilingual Lemmatization ](https://towardsdatascience.com/state-of-the-art-multilingual-lemmatization-f303e8ff1a8) - Good overview article and also referencing benchmark evaluations in [CoNLL 2017](http://universaldependencies.org/conll17/) and [CoNLL 2018](http://universaldependencies.org/conll18/) shared tasks. There is now some annotated data for over 50 languages. There are concepts mentioned that we have not yet talked about in this class -- but we will get there.
--
 - Article on ["Toward Tokenization Evaluation"](https://perso.limsi.fr/madda/publications/PDF/habert-et-al98b.pdf). We mentioned that there is no standard for tokenization given that there are no linguistic grounds for this task. This article discusses comparative assessment and also the consequences of divergent tokenization choices.
 
 ## Exercises
