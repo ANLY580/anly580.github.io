@@ -35,19 +35,18 @@ For the first couple of weeks, we're trying to move relatively slowly by focusin
 
 ## Exercises
 
-If you are unfamiliar with **Linux**, walk through the [Linux Exercises from the PDF in Canvas]().
+- If you are relatively new to Python and GitHub, use the links below to download and install Anaconda and GitHub Desktop. We'll walk through cloning the repository to your laptop.
+- If you are a second year student, you should be able to do the same thing in the cloud.
+- If you prefer to use R, we'll have an option for you as well!
+
+1. If you are unfamiliar with **Linux**, walk through the [Linux Exercises from the PDF in Canvas]().
 2. In particular, try out the Linux commands from Jurafsky section 2.4 on [ca11.txt](https://github.com/anyl580/lectures/tree/master/2-tools/ca11.txt). These manual pages should help you to better understand use of the commands exemplified.
-    - [tr](https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/)
+	- [tr](https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/)
 	- [grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 	- [SORT](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/)
 	- [uniq](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/)
 4. Use [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) to practice regular expressions by **removing tags** from [ca11.txt](https://github.com/anyl580/lectures/tree/master/2-tools/ca11.txt) (one of the texts from the Brown Corpus). The Brown corpus manual [Brown Corpus Manual](http://clu.uni.no/icame/manuals/BROWN/INDEX.HTM#bc6) should be of help.
 5. Consider the statistics below required for [Project #1](https://anyl580.github.io/project1.html). Try to do these for either [ca11.txt](https://github.com/anyl580/lectures/tree/master/2-tools/ca11.txt) or the Brown Corpus within NLTK. If you are using NLTK, you can use the [course lecture for this](https://github.com/anyl580/lectures/tree/master/2-tools).
-
-    - If you are relatively new to Python and GitHub, use the links below to download and install Anaconda and GitHub Desktop. We'll walk through cloning the repository to your laptop.
-    - If you are a second year student, you should be able to do the same thing in the cloud.
-    - If you prefer to use R, we'll have an option for you as well!
-
      - Statistics you should gather:
         - The total number of tokens
     	- The total number of characters
