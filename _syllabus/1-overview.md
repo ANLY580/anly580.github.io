@@ -7,9 +7,9 @@ tags: [language]
 
 ## Access the Lecture
 
-[1-Overview (view only)](https://github.com/anyl580/lectures/blob/master/1-overview/1-overview.md)
+- [1-Overview (view only)](https://github.com/anyl580/lectures/blob/master/1-overview/1-overview.md)
 
-[1-Overview (interactive)](https://mybinder.org/v2/gh/anyl580/lectures/master?urlpath=notebooks/1-overview/1-overview.ipynb)
+- [1-Overview (interactive)](https://mybinder.org/v2/gh/anyl580/lectures/master?urlpath=notebooks/1-overview/1-overview.ipynb)
 
 ## Readings
 
@@ -17,25 +17,39 @@ Grefenstette, G., & Tapanainen, P. (1994). [What is a word, what is a sentence?:
 
 Smith, N. A. (2019). [Contextual Word Representations: A Contextual Introduction](https://arxiv.org/pdf/1902.06006.pdf). arXiv preprint arXiv:1902.06006.
 
-# 1 - Summary Notes and References
-
-This summary includes external references from the associated Jupyter notebook (and duplicate lecture markdown) and aggregated here to make review easier. It's also a catch-all for anything I might mention in class or think is worthy of mention.
-
 ## Other References
 
 * Natural Language Tool Kit (NLTK) [Chapter 2 and the Brown Corpus (1.3)](https://www.nltk.org/book/ch02.html)
 
-# Course Philosophy
+## Summary Notes and References
+
+This summary includes external references from the associated Jupyter notebook (and duplicate lecture markdown) and aggregated here to make review easier. It's also a catch-all for anything I might mention in class or think is worthy of mention.
+
+## Course Philosophy
 
 You are in graduate school. Congratulations! You have moved from rote or structured learning to discovery or inquiry based learning. The professor's role is more as coach in this process -- and to large extent, what (and how much) you learn is now under your control. We will provide opportunity and path, and the rest is up to you. There are in-class quizzes to provide motivation and aid with assessment, but they are open book and not intended to stump you. Where exercises are indicated (both thoughtful or hands-on), take the time walk through them or you will come away from the class with only passing knowledge in NLP.
 
-# Thought Exercises
+## Thought Exercises
 
 1. How many words do you think there are in English? If you are not a native English speaker, what about your own native language? To estimate this, we'll come back to this topic in a couple of weeks.
 2. About how many languages exist worldwide? (Hint: check Ethnologue below)
 3. What do you think "ambiguous" means? Is it the same thing as being "vague"?
 
-# Topical Notes
+## Hands-on
+
+To get started with NLTK, all you need is a Python distribution -- and I'd recommend downloading the latest Anaconda and then running
+
+```{bash}
+ conda install nltk
+ ```
+
+ from the command line.
+
+*If you are not comfortable with Python*, you can walk through chapter 1 of the NLTK book and it will familiarize you with the basics of installing NLTK and the basics of language processing in Python.
+
+If you already pretty comfortable in Python, skip quickly to **chapter 2** to learn how to download and access the brown corpus and then go to **chapter 3 which addresses regular expressions, tokenizing, normalizing, lemmatizing - everything from J&M chapter 2 in your reading coming up this week**.
+
+## Topical Notes
 * What is NLP?
 	* It's an inter-disciplinary topic in Artificial Intelligence that intersects with linguistics. It's hard because language is an AI-complete problem (it requires first solving general AI).
 	* Predominant methods are machine learning-based to include statistical and neural models. When less data is available, knowledge-based methods may be more useful.
