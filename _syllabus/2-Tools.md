@@ -19,7 +19,11 @@ tags: [environments, tokenization]
 
 ## Sidebar Notes
 
-For the first couple of weeks, we're trying to move relatively slowly by focusing on  string processing tasks such as tokenization while you are learning to use other tools. The primary tools that you need for this class are Python or R and various libraries/packages plus GitHub.
+- For the first couple of weeks, we're trying to move relatively slowly by focusing on  string processing tasks such as tokenization while you are learning to use other tools. The primary tools that you need for this class are Python or R and various libraries/packages plus GitHub.
+
+- The [Google ngram](https://books.google.com/ngrams) Corpus is an "online search engine that charts the frequencies of any set of comma-delimited search strings using a yearly count of n-grams found in sources printed between 1500 and 2008." It now supports parts-of-speech.
+
+![](google-ngram.jpg)
 
 ## Other References
 
@@ -49,8 +53,36 @@ For the first couple of weeks, we're trying to move relatively slowly by focusin
 	- [grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 	- [SORT](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/)
 	- [uniq](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/)
-4. Use [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) to practice regular expressions by **removing tags** from [ca11.txt](https://github.com/anyl580/lectures/tree/master/2-tools/ca11.txt) (one of the texts from the Brown Corpus). The Brown corpus manual [Brown Corpus Manual](http://clu.uni.no/icame/manuals/BROWN/INDEX.HTM#bc6) should be of help.
-5. Consider the statistics below required for [Project #1](https://anyl580.github.io/project1.html). Try to do these for either [ca11.txt](https://github.com/anyl580/lectures/tree/master/2-tools/ca11.txt) or the Brown Corpus within NLTK. If you are using NLTK, you can use the [course lecture for this](https://github.com/anyl580/lectures/tree/master/2-tools).
+
+The command 'tr' below takes every non-alphabetic character and replaces it with a '\n' (newline). The '<' operator gets the text from 'ca11.txt'.
+
+```{bash}
+tr -sc 'A-Za-z' '\n' < ca11.txt
+```
+Then the '|' (pipe) operator takes the output and 'pipes' it to another command.
+
+```{bash}
+tr -sc 'A-Za-z' '\n' < ca11.txt | sort
+```
+
+You can chain these pipes together very easily.
+
+There are ton of good references for Linux online and it can take a lot of time to develop proficiency. At the least, find a reference you can navigate easily. This one is fairly nice. https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#text-processing
+
+Don't dismiss the idea of learning a bit of Linux and related utilities for text processing. You never know when it will come in handy. Guaranteed it will.
+
+```{bash}
+tr -sc 'A-Za-z' '\n' < ca11.txt | sort  | sort | uniq -c | sort -nr | head
+```
+
+4. Regular Expressions:
+
+    - [Every programming language has its own flavor.](https://www.regular-expressions.info/refflavors.html)
+    - I really like [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) for practicing and building skills. It should work fine for you on this exercise.
+    - [Planet Regex](https://www.regexplanet.com) accommodates a number of programming languages and may be useful.
+    - Practice regular expressions by **removing tags** from [ca11.txt](https://github.com/anyl580/lectures/tree/master/2-tools/ca11.txt) (one of the texts from the Brown Corpus). The Brown corpus manual [Brown Corpus Manual](http://clu.uni.no/icame/manuals/BROWN/INDEX.HTM#bc6) should be of help.
+
+5. Now consider the statistics below required for [Project #1](https://anyl580.github.io/project1.html). Try to do these for either [ca11.txt](https://github.com/anyl580/lectures/tree/master/2-tools/ca11.txt) or the Brown Corpus within NLTK. If you are using NLTK, you can use the [course lecture for this](https://github.com/anyl580/lectures/tree/master/2-tools).
      - Statistics you should gather:
          - The total number of tokens
          - The total number of characters
@@ -78,7 +110,8 @@ For the first couple of weeks, we're trying to move relatively slowly by focusin
 ## Text and Content Extraction tools
 * **[Scrapy](https://scrapy.org)** - Scrapy is a super easy to learn and use webscraping library. I haven't tried Scrapy cloud yet but it looks intriguing. Check out []"Scraping Amazon Reviews using Scrapy in Python."](https://blog.datahut.co/scraping-amazon-reviews-python-scrapy/) We didn't have time to do this as an exercise, but you could scrape your own data for project #2.
 * **[Elastic (ELK) Stack](https://www.elastic.co/products/elastic-stack)** - Many data scientists use Elastic to quickly index data for further exploration and for quick-and-dirty dashboards.
-*  ** **
+*  **[Apache Tika](https://tika.apache.org)** - content analysis toolkit
+*  **PDF Box** - open source Java library for text extraction from PDF.
 
 ## Language Tools
 
