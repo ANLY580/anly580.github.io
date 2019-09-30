@@ -11,7 +11,7 @@ These are links to interactive notebooks on binder. You can also view them direc
 
 - [3-encodings](https://mybinder.org/v2/gh/anyl580/lectures/master?urlpath=notebooks/3-multilingual/Encodings.ipynb)
 
-- [3-tokenization](https://github.com/anyl580/lectures/blob/master?urlpath=notebooks/3-multilingual/Tokenization.ipynb)
+- [3-tokenization](https://mybinder.org/v2/gh/anyl580/lectures/master?urlpath=notebooks/3-multilingual/Tokenization.ipynb)
 
 - [3-language ID](https://mybinder.org/v2/gh/anyl580/lectures/master?urlpath=notebooks/3-multilingual/Language_Identification.ipynb)
 
