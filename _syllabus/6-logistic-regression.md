@@ -7,7 +7,7 @@ tags: [classification]
 
 ## Access the Notebooks
 
-- [Scikit-learn Notebook](https://mybinder.org/v2/gh/anyl580/lectures/master?urlpath=notebooks/5-bayes-sentiment/sentiment_scikitlearn_NB_LogReg.ipynb)
+- [Scikit-learn Notebook](https://mybinder.org/v2/gh/anyl580/lectures/master?urlpath=notebooks/6-Logistic-Regression/sentiment_scikitlearn_NB_LogReg.ipynb)
 
 ## Readings
 
