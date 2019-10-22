@@ -7,7 +7,7 @@ tags: [classification]
 
 ## Access the Notebooks
 
-- [Notebook](https://mybinder.org/v2/gh/anyl580/lectures/master?urlpath=notebooks/7-vector-semantics/Semantic-vectorization.ipynb.ipynb)
+- [Notebook](https://mybinder.org/v2/gh/anyl580/lectures/master?urlpath=notebooks/7-vector-semantics/vector-semantics.ipynb)
 
 ## Readings
 
