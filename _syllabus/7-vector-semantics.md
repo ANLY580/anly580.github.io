@@ -14,9 +14,20 @@ tags: [classification]
 - [J&M Chapter 7: Vector Semantics
 ](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
-# Additional Readings
+## Additional Readings
 
-### Fundamentals
+- Bengfort, Bilbro, and Ojeda - [Applied Text Analysis with Python](https://www.amazon.com/Applied-Text-Analysis-Python-Language-Aware/dp/1491963042/ref=sr_1_1?keywords=bengfort&qid=1571780772&sr=8-1)
+- Chris Potts [Sentiment Workshop](http://web.stanford.edu/class/cs224u/materials/cs224u-2019-sentiment.pdf)
+
+## Toolkits
+
+- https://medium.com/activewizards-machine-learning-company/comparison-of-top-6-python-nlp-libraries-c4ce160237eb
+
+### Modeling and Pipelines
+- Wickham (2015) [Visualizing Statistical Models: Removing the Blindfold](http://had.co.nz/stat645/model-vis.pdf)
+- Kumar, McCann, Naughton, and Patel (2015) - Model Selection Management Systems: The Next Frontier of Advanced Analytics](http://pages.cs.wisc.edu/~arun/vision/SIGMODRecord15.pdf)
+
+### Stats and ML Concepts
 - [NLP fundamentals: Maximum Entropy](https://nadesnotes.wordpress.com/2016/09/05/natural-language-processing-nlp-fundamentals-maximum-entropy-maxent/) - simple intro with examples
 - [Text Classification with NLTK nand Scikit-Learn](https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html) - Excellent examples of how to operationalize these concepts.
 - [Hyper-parameter tuning on datacamp.com](https://www.datacamp.com/community/tutorials/parameter-optimization-machine-learning-models)
