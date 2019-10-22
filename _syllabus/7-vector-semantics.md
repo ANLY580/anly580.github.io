@@ -16,7 +16,10 @@ tags: [classification]
 
 # Additional Readings
 
+- [NLP fundamentals: Maximum Entropy](https://nadesnotes.wordpress.com/2016/09/05/natural-language-processing-nlp-fundamentals-maximum-entropy-maxent/) - simple intro with examples
+- [Text Classification with NLTK nand Scikit-Learn](https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html) - Excellent examples of how to operationalize these concepts.
 - [Hyper-parameter tuning on datacamp.com](https://www.datacamp.com/community/tutorials/parameter-optimization-machine-learning-models)
+- Cross-validation - https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f
 
 - Weighted log odds:
  - [Fightin’ words: Lexical feature selection and evaluation for identifying the content of political conflict. B. Monroe, M. Colaresi, and K. Quinn, 2008.](https://firstmonday.org/ojs/index.php/fm/article/view/4944/3863)
@@ -25,4 +28,4 @@ tags: [classification]
  - Word2Vec
   - [On word embeddings - Part 3: The secret ingredient](http://ruder.io/secret-word2vec/)
 
-# Supplemental notebooks
+
