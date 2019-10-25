@@ -28,13 +28,13 @@ The official syllabus for this course is posted on [Canvas](https://georgetown.i
 | 8-Oct-19 | [How can we classify documents (Logistic Regression)?](syllabus/6-logistic-regression.html) | NO CLASS. WORK IN GROUPS. Continuation: compare performance with Naive Bayes | [J&M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf) | Q5, [Project #1 Due - NEW DATE 11 Oct 2019](project1.html) |
 | 15-Oct-19 | <No class> | Mid-Semester Break | | |
 | 22-Oct-19 | [How can we find similar documents or measure differences in text?](syllabus/7-vector-semantics.html) | Vector semantics, word embeddings, lexical semantics, frames, distributional hypothesis | [J&M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf) | Q6 |
-| 29-Oct-19 | How can we discover what documents are about? | Topic modeling, summarization | [Gensim tutorials](https://radimrehurek.com/gensim/tutorial.html), [xplore notebooks here](https://markroxor.github.io/gensim/tutorials/index.html), [Moody](https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/) | Q7, [Project #2 proposals due](proposal.html) |
+| 29-Oct-19 | How can we discover what documents are about? Guest Lecturer: Tony Zukas | Topic modeling, summarization | [Gensim tutorials](https://radimrehurek.com/gensim/tutorial.html), [Explore notebooks here](https://markroxor.github.io/gensim/tutorials/index.html), [Moody](https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/) | Q7, [Project #2 proposals due](proposal.html) |
 | 5-Nov-19 | How does Machine Translation work? | Statistical MT and neural MT - subtasks and challenges | [Deep Learning, NLP and Representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) [Visualizing a Neural MT Model](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/), [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) | Mid-Term |
 | 12-Nov-19 | How can we extract information from text? | Part-of-speech tagging, ambiguity and context, information extraction, keywords, multi-word expressions | [Spacy 101](https://spacy.io/usage/spacy-101) | Q8 |
 | 29-Nov-19 | Can we use NLU to answer questions or populate knowledge bases? | Q&A, entity disambiguation, semantic relations, coherence/cohesion, graph/dependency relations, pragmatics, entity resolution | [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/), [Allen NLP Models](https://allennlp.org/models) | Q9 |
-| 26-Nov-19 | How do chatbots work and why is dialogue so hard? | Grounding, dialog systems, text generation, inference | TBD | Q10 |
-| 3-Dec-19 | Science, Bias, and Ethics in NLP | Data and society, culture and bias,  Scientific method, representativeness, benchmarking and evaluation, debiasing| [Hovy & Spruit](http://www.dirkhovy.com/portfolio/papers/download/ethics.pdf) | Q11 |
-| 10-Dec-19 | Student poster presentations | | | [Project #2 Due](project2.html) |
+| 26-Nov-19 | How do chatbots work and why is dialogue so hard?; Science, Bias, and Ethics in NLP | Grounding, dialog systems, text generation, inference; Data and society, culture and bias,  Scientific method, representativeness, benchmarking and evaluation, debiasing | [Hovy & Spruit](http://www.dirkhovy.com/portfolio/papers/download/ethics.pdf) [Inside the Alexa Prize](https://www.wired.com/story/inside-amazon-alexa-prize/) | Q10 |
+| 3-Dec-19 | Project #2 Poster Presentations |  |  |
+| 9-Dec-19 | No class | | | [Project #2 Due](project2.html) |
 
 ## Grading Rubric
 
@@ -55,6 +55,7 @@ Primary readings are from chapters from Jurafsky & Martin (J&M), Speech and Lang
 - Christopher Olah, [Deep Learning, NLP, and Representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 - Christopher Olah, [Visualizing a Neural MT Model](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 - Jay Alammar, [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/) (http://jalammar.github.io/illustrated-bert/)
+- [Inside the Alexa Prize](https://www.wired.com/story/inside-amazon-alexa-prize/)
 
 ### API Guides / Documentation
 - [NLTK](https://www.nltk.org)
