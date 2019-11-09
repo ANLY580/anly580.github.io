@@ -13,7 +13,7 @@ tags: [classification]
 
 ## Referenced Readings
 
-- Blei - [Probabilistic Topic Models](http://delivery.acm.org/10.1145/2140000/2133826/p77-blei.pdf?ip=172.106.128.188&id=2133826&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572383565_7dcb4de3c4e5863163c153ef3a81b6ef)
+- Blei - [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)
 - [Overview of Topic Modeling](https://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html) and key references:
   - D. Blei, A. Ng, M. Jordan. Latent Dirichlet Allocation. Journal of Machine Learning Research, 3: 993-1022, 2003
   - R. Mihalcea, P. Tarau. TextRank – bringing order into texts. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2004). 2004

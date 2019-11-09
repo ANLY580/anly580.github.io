@@ -25,7 +25,7 @@ As usual, the assumption is that you have read the chapter and also watched corr
 - [Real trends in words and sentence lengths](https://languagelog.ldc.upenn.edu/nll/?p=3534)
 > "The results suggest that mean word lengths have decreased slightly in these addresses over the past century - by 5% or so - while mean sentence lengths have been falling since the founding of the republic, and have undergone a cumulative drop of perhaps 50%."
 
-- [![Google ngram viewer](google-ngram.jpg)](https://books.google.com/ngrams)
+- [![Google ngram viewer](images/google-ngram.jpg)](https://books.google.com/ngrams)
 
 - [Google Culturomics paper (Google ngrams), 2011](https://pdfs.semanticscholar.org/8f00/57d3c0f04982fab0b34f29a118247e6858b0.pdf)
 
