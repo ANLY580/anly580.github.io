@@ -2,7 +2,7 @@
 week: 10
 day: Nov 12
 title: Information Extraction
-tags: [pos, extraction, labeling]
+tags: [pos, extraction]
 ---
 
 ## Access the Notebooks
