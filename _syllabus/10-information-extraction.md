@@ -11,6 +11,8 @@ tags: [pos, extraction]
 ## Readings
 - [https://spacy.io/usage/spacy-101](https://spacy.io/usage/spacy-101)
 - Optional: [Advanced NLP with SpaCy](https://course.spacy.io)
+- J&M Chapter 8 [Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+- J&M Chapter 18 [Information Extraction](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
 
 ## Related Reading
 - [https://nlpprogress.com](https://nlpprogress.com)
